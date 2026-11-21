@@ -263,13 +263,9 @@ The project highlights practical skills in data manipulation, database querying,
 
 **Dhruva Pardkar**
 
-Aspiring Data Analyst
+Aspiring MSc. Data Science And AI
 
 **Technical Skills:** Python | SQL | PostgreSQL | Power BI | Excel | Data Visualization
 
-- GitHub: [Add GitHub Profile]
-- LinkedIn: [Add LinkedIn Profile]
 
----
 
-⭐ If you find this project useful, consider giving the repository a star!
