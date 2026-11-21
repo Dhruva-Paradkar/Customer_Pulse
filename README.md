@@ -111,7 +111,7 @@ Connected the analyzed customer dataset to Power BI and developed an interactive
 
 The dashboard helps explore customer demographics, purchasing patterns, product performance, and revenue-related metrics.
 
-**Dashboard File:** `CUSTOMER_behaviour_powerbi.pbix`
+**Dashboard File:** `Customer_Pulse_image.png`
 
 ### Step 6: Report Creation
 
@@ -142,7 +142,7 @@ The Power BI dashboard provides a visual representation of customer shopping beh
 
 ### Power BI Dashboard
 
-![Customer Shopping Behaviour Dashboard]()
+![Customer_Pulse_image.png]()
 
 *Note: Add your actual dashboard screenshot in the images folder.*
 
